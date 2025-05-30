@@ -1,4 +1,6 @@
-<h1 align="center">Hello there, I'm Henric Amokola 👋</h1>
+<h1 align="center">
+  <img src="https://github.com/stenhenric/stenhenric/raw/main/STEEEN.png" style="width: 100%;">
+</h1>
 
 I'm currently a  **Frontend Developer in training** and a **Computer Science student**.
 
