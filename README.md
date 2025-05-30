@@ -36,4 +36,4 @@ I'm  a  **Frontend Developer in training** and a **Computer Science student**.
 
 ---
 
-<p align="center">Thanks for checking and stopping by!</p>
+<p align="center"><i>Thanks for checking and stopping by!</i></p>
