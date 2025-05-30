@@ -2,11 +2,11 @@
   <img src="https://github.com/stenhenric/stenhenric/raw/main/STEEEN.png" style="width: 100%;">
 </h1>
 
-I'm currently a  **Frontend Developer in training** and a **Computer Science student**.
+I'm  a  **Frontend Developer in training** and a **Computer Science student**.
 
 ---
 
-### 📘 About Me
+### 📘 THINGS YOU WOULD WANT TO KNOW ABOUT ME
 
 - 🎓 BSc Computer Science student at **Technical University of Mombasa**
 - 🌱 Currently learning: **JavaScript**, **HTML**, and **CSS**
@@ -15,7 +15,7 @@ I'm currently a  **Frontend Developer in training** and a **Computer Science stu
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 THE TECH STACK IM CURRENTLY USING:
 
 | Language | Tools & IDEs | Design |
 |----------|--------------|--------|
@@ -25,7 +25,7 @@ I'm currently a  **Frontend Developer in training** and a **Computer Science stu
 
 ---
 
-### 📬 Let's Connect
+### 📬 CONNECT AND FOLLOW ME ON MY SOCIALS
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sten_henric)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henricstenson@gmail.com)
